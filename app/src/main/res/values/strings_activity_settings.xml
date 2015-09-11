@@ -1,0 +1,10 @@
+<resources>
+    <string name="title_activity_settings">Settings</string>
+    <string name="pref_header_server">Server</string>
+
+    <string name="pref_title_address">Address</string>
+    <string name="pref_default_address">localhost</string>
+
+    <string name="pref_title_port">Port</string>
+    <string name="pref_default_port">8080</string>
+</resources>
